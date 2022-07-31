@@ -38,4 +38,9 @@ public class SimpleResource {
 
         return new ResponseEntity<>(simpleList, HttpStatus.OK);
     }
+
+    @GetMapping(path = "/counter/", produces = "application/json")
+    public ResponseEntity<Long> getCounterInfo(){
+        return new ResponseEntity<>(counter.get(), HttpStatus.OK);
+    }
 }
