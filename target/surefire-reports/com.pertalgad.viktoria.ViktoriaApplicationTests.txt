@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pertalgad.viktoria.ViktoriaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.629 s - in com.pertalgad.viktoria.ViktoriaApplicationTests

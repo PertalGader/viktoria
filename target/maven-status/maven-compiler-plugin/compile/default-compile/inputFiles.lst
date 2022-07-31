@@ -1,0 +1,15 @@
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\serialization\PrometheusSerializationStrategy.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\metrics\MetricVisitor.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\metrics\Histogram.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\serialization\MetricSerializationException.java
+C:\Work\viktoria\src\main\java\com\pertalgad\ViktoriaApplication.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\metrics\Counter.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\metrics\Metric.java
+C:\Work\viktoria\src\main\java\com\pertalgad\rest\SimpleResource.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\utils\Pair.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\validator\InvalidMetricNameException.java
+C:\Work\viktoria\src\main\java\com\pertalgad\domain\Simple.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\metrics\MetricCollection.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\validator\MetricNameValidator.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\metrics\Gauge.java
+C:\Work\viktoria\src\main\java\com\pertalgad\viktoria\client\serialization\SerializationStrategy.java
